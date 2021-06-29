@@ -20,6 +20,7 @@ I'm a full stack developer whose been programming for ~1 year.
   - CSS
   - JavaScript
 - Python
+- SQL
 
 </details>
 
