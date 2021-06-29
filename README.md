@@ -19,8 +19,6 @@ I'm a full stack developer whose been programming for ~1 year.
   - HTML
   - CSS
   - JavaScript
-- Java
-- C# 
 - Python
 
 </details>
