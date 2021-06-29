@@ -34,6 +34,7 @@ I'm a full stack developer whose been programming for ~1 year.
 - IBM db2
 - Flask
 - Selenium
+- JSON
 </details>
 
 
