@@ -1,4 +1,4 @@
-# Hey! I'm Miles :wave:
+# Hey! I'm Malcolm
 
 ## About Me
 
