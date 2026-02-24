@@ -2,13 +2,13 @@
 
 i think about how to break things, reprogram things, and price things.
 
-**cyber warfare · gene editing · pricing models · psychopolitics · ml theory** · and whatever else keeps me up at 3am.
+**cyber warfare · gene editing · pricing models · psychopolitics · ml theory** - and whatever else keeps me up at 3am.
 
 ---
 
 ### in the recent past
 
-🧬 **programmable biology** — built GPT-4 scale models at [Basecamp Research](https://www.basecamp-research.com/) with Nvidia. 
+🧬 **programmable biology** - built GPT-4 scale models at [Basecamp Research](https://www.basecamp-research.com/) with Nvidia. 
 
 💰 **pricing @ google** — worked on pricing models for YouTube Premium. before claude code existed, so it was just me and god.
 
