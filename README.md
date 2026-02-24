@@ -10,4 +10,4 @@ Previously, I've:
 - Founded a startups in highschool backed by the largest instagram page.
 
 Additionally: 
-- Trigeminal Neuralgia Survivor (AKA the suicide disease)
+- Trigeminal Neuralgia Survivor (the suicide disease)
