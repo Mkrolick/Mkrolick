@@ -2,7 +2,7 @@
 
 i think about how to break things, reprogram things, and price things.
 
-**cyber warfare · gene editing · pricing models · psychopolitics · ml theory** — and whatever else keeps me up at 3am.
+**cyber warfare · gene editing · pricing models · psychopolitics · ml theory** · and whatever else keeps me up at 3am.
 
 ---
 
