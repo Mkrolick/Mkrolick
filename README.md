@@ -8,16 +8,11 @@ i think about how to break things, reprogram things, and price things.
 
 ### in the recent past
 
-🧬 **programmable biology** — built GPT-4 scale models at [Basecamp Research](https://www.basecamp-research.com/) with Nvidia. yes, that kind of scale on biology.
-
+🧬 **programmable biology** — built GPT-4 scale models at [Basecamp Research](https://www.basecamp-research.com/) with Nvidia. 
 💰 **pricing @ google** — worked on pricing models for YouTube Premium. before claude code existed, so it was just me and god.
-
 🧠 **brain-computer interfaces** — led ML for JHU's BCI Society. reading minds is a team sport.
-
 👁️ **computer vision** — coursework contributions for Hugging Face.
-
 🔓 **cyber warfare instructor** — taught offensive security for MIT BWSI. in high school.
-
 🚀 **founder** — built a startup in high school backed by the largest instagram page. unhinged origin story.
 
 ---
