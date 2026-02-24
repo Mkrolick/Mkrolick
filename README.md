@@ -8,4 +8,4 @@ Previously, I've:
 - Taught cyber wafare for MIT BWSI.
 
 Additionally: 
-- Trigeminal Neuralgia Survivor for two years (AKA suicide disease)
+- Trigeminal Neuralgia Survivor (AKA the suicide disease)
