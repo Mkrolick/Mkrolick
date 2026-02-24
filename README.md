@@ -6,7 +6,7 @@ i think about how to break things, reprogram things, and price things.
 
 ---
 
-### what i've shipped
+### in the recent past
 
 🧬 **programmable biology** — built GPT-4 scale models at [Basecamp Research](https://www.basecamp-research.com/) with Nvidia. yes, that kind of scale on biology.
 
