@@ -1,13 +1,31 @@
+# malcolm
 
-Hi, I'm Malcolm. I like cyber warfare, gene editing, pricing models, psychopolitics, ml theory and more.
+i think about how to break things, reprogram things, and price things.
 
-Previously, I've:
-- Helped build programmable biology with GPT-4 Scale Models at Basecamp Research with Nvidia.
-- Worked on pricing models at Google for Youtube Premium (Pre-Claude Code Era).
-- Led Machine Learning for JHU Brain Computer Interface Society.
-- Worked on computer vision coursework for Huggingface. 
-- Taught cyber wafare for MIT BWSI in highschool.
-- Founded a startups in highschool backed by the largest instagram page.
+**cyber warfare · gene editing · pricing models · psychopolitics · ml theory** — and whatever else keeps me up at 3am.
 
-Additionally: 
-- Trigeminal Neuralgia Survivor (the suicide disease)
+---
+
+### what i've shipped
+
+🧬 **programmable biology** — built GPT-4 scale models at [Basecamp Research](https://www.basecamp-research.com/) with Nvidia. yes, that kind of scale on biology.
+
+💰 **pricing @ google** — worked on pricing models for YouTube Premium. before claude code existed, so it was just me and god.
+
+🧠 **brain-computer interfaces** — led ML for JHU's BCI Society. reading minds is a team sport.
+
+👁️ **computer vision** — coursework contributions for Hugging Face.
+
+🔓 **cyber warfare instructor** — taught offensive security for MIT BWSI. in high school.
+
+🚀 **founder** — built a startup in high school backed by the largest instagram page. unhinged origin story.
+
+---
+
+### the fine print
+
+i survived **trigeminal neuralgia** — nicknamed *the suicide disease*. it's the most painful condition known to medicine. i'm still here, and i'm not slowing down.
+
+---
+
+*if it touches code, biology, markets, or minds — i'm probably interested.*
