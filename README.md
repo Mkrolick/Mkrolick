@@ -8,7 +8,7 @@ i think about how to break things, reprogram things, and price things.
 
 ### in the recent past
 
-🧬 **programmable biology** - built GPT-4 scale models at [Basecamp Research](https://www.basecamp-research.com/) with Nvidia for site specific gene insertion.
+🧬 **programmable biology** - built GPT-4 scale models at [Basecamp Research](https://www.basecamp-research.com/) with Nvidia for site specific DNA insertion.
 
 💰 **pricing @ google** — worked on pricing models for YouTube Premium. before claude code existed, so it was just me and god.
 
