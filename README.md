@@ -18,7 +18,7 @@ i think about how to break things, reprogram things, and price things.
 
 🔓 **cyber warfare instructor** — taught offensive security for MIT BWSI. in high school.
 
-🚀 **founder** — built a startup in high school backed by the largest instagram page.
+🚀 **social saber** — built a startup in high school backed by the largest instagram page.
 
 ---
 
