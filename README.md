@@ -1,6 +1,6 @@
 # malcolm
 
-i like to think about how to break things, reprogram things, and what future things look like.
+i like to think about how to break things, reprogram things, and the future looks like.
 
 **cyber warfare · gene editing · pricing models · psychopolitics · ml theory** - and whatever else keeps me up at 3am.
 
