@@ -25,7 +25,3 @@ i think about how to break things, reprogram things, and price things.
 ### the fine print
 
 i survived **trigeminal neuralgia** for two years - nicknamed *the suicide disease*. it's one of the most painful condition known to medicine (worse than childbirth). i'm still here, and i'm not slowing down.
-
----
-
-*if it touches code, biology, markets, or minds - i'm probably interested.*
