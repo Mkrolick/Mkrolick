@@ -16,7 +16,7 @@ i like to think about how to break things, reprogram things, and the future look
 
 👁️ **computer vision** - coursework contributions for Hugging Face.
 
-🔓 **cyber warfare instructor** - taught offensive security for MIT BWSI. in high school.
+🔓 **cyber warfare instructor** - taught offensive security for MIT BWSI. How I spent my senior summer lol.
 
 🚀 **social saber** - built a startup in high school backed by the largest instagram page.
 
