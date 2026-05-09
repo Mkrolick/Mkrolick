@@ -30,8 +30,8 @@ i survived **trigeminal neuralgia** for two years (known as the suicide disease)
 
 ### Books
 
-Meaning: Demian, Solaris, Man's Search for Meaning
+Meaning: Demian, Solaris, Man's Search for Meaning, Things Hidden Since the Foundation of the World
 
-Reality: GEB, Simulation and Simulacra, Amusing Ourselves to Death, Phychopolitics, Technopoly, Things Hidden Since the Foundation of the World
+Reality: GEB, Simulation and Simulacra, Amusing Ourselves to Death, Phychopolitics, Technopoly
 
 Fever Dream: Sirens of Titan, A Clockwork Orange, Tales From Outer Suburbia, The Master and Margarita, Chainsaw Man
