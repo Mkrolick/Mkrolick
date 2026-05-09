@@ -28,7 +28,7 @@ i survived **trigeminal neuralgia** for two years (known as the suicide disease)
 
 ---
 
-### Books
+### Readings
 
 Reality: GEB, Simulation and Simulacra, Amusing Ourselves to Death, Phychopolitics, Technopoly
 
