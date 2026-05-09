@@ -25,3 +25,11 @@ i like to think about how to break things, reprogram things, and the future look
 ### the fine print
 
 i survived **trigeminal neuralgia** for two years (known as the suicide disease). it's one of the most painful condition known to medicine. i'm still here, and i don't plan on slowing down. I also did this while having brain surgery for a different medical condition. 
+
+---
+
+### Books
+
+Meaning: Demian, Solaris, Man's Search for Meaning
+Reality: GEB, Simulation and Simulacra, Amusing Ourselves to Death, Phychopolitics
+Fever Dream: Sirens of Titan, A Clockwork Orange, Tales From Outer Suburbia, The Master and Margarita, Chainsaw Man
