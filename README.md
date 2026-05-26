@@ -8,7 +8,7 @@ i like to think about how to break things, reprogram things, and the future look
 
 ### in the recent past
 
-🧬 **programmable biology** - developed infra GPT-4 scale models at [Basecamp Research](https://www.basecamp-research.com/) with Nvidia for site specific DNA insertion and worked on mech interp analysis.
+🧬 **programmable biology** - developed infra for GPT-4 scale models at [Basecamp Research](https://www.basecamp-research.com/) with Nvidia for site specific DNA insertion and worked on mech interp analysis.
 
 💰 **pricing @ google** - worked on pricing models for YouTube Premium. before claude code existed, so it was just me and god.
 
