@@ -22,7 +22,7 @@ i like to what the future looks like.
 
 ### the fine print
 
-i survived **trigeminal neuralgia** for two years (known as the suicide disease). it's one of the most painful condition known to medicine. i'm still here, and i don't plan on slowing down. I also did this while having brain surgery for a different medical condition. 
+i survived **trigeminal neuralgia** for two years (known as the suicide disease). it's one of the most painful condition known to medicine. i'm still here, and i don't plan on slowing down. 
 
 ---
 
