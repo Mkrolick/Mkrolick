@@ -1,6 +1,6 @@
 # malcolm
 
-i like to what the future looks like.
+i like to think about what the future looks like.
 
 ---
 
