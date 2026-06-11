@@ -1,32 +1,6 @@
 # malcolm
 
-i like to think about what the future looks like.
-
----
-
-### in the recent past
-
-🧬 **programmable biology** - developed infra for GPT-4 scale models at [Basecamp Research](https://www.basecamp-research.com/) with Nvidia for site specific DNA insertion and worked on mech interp analysis.
-
-💰 **pricing @ google** - worked on pricing models for YouTube Premium. before claude code existed, so it was just me and god.
-
-🧠 **brain-computer interfaces** - led ML for JHU's BCI Society. reading minds is a team sport.
-
-👁️ **computer vision** - coursework contributions for Hugging Face.
-
-🔓 **cyber warfare instructor** - taught offensive security for MIT BWSI. How I spent my senior summer lol.
-
-🚀 **social saber** - built a startup in high school backed by the largest instagram page.
-
----
-
-### the fine print
-
-i survived **trigeminal neuralgia** for two years (known as the suicide disease). it's one of the most painful condition known to medicine. i'm still here, and i don't plan on slowing down. 
-
----
-
-### readings
+### book
 
 Reality: GEB, Simulation and Simulacra, Amusing Ourselves to Death, Phychopolitics, Technopoly
 
