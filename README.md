@@ -1,6 +1,6 @@
 # malcolm
 
-### book
+### some book
 
 Reality: GEB, Simulation and Simulacra, Phychopolitics, Technopoly, Superintelligence
 
