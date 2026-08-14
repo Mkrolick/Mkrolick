@@ -1,12 +1,12 @@
 # malcolm
 
-### some book
+
 
 About ...
 
 Reality: GEB, Simulation and Simulacra, Phychopolitics, Technopoly, Superintelligence
 
-Meaning: Demian, Solaris, Man's Search for Meaning, Things Hidden Since the Foundation of the World, Amusing Ourselves to Death, Psychopolitics
+Meaning: Demian, Solaris, Man's Search for Meaning, Things Hidden Since the Foundation of the World, Amusing Ourselves to Death, Psychopolitics (Both Versions)
 
 Fever Dream: Sirens of Titan, A Clockwork Orange, Tales From Outer Suburbia, The Master and Margarita, Chainsaw Man
 
