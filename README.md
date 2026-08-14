@@ -2,7 +2,7 @@
 
 
 
-I like the best and worst in people. 
+I like the best and worst in and of people. 
 
 About:..
 
