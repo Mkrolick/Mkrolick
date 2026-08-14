@@ -2,7 +2,9 @@
 
 
 
-About ...
+I like the best and worst in people. 
+
+About:..
 
 Reality: GEB, Simulation and Simulacra, Phychopolitics, Technopoly, Superintelligence
 
